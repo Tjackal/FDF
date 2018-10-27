@@ -1,1 +1,1 @@
-# FDF (landscape viewer)
+# FDF (3D landscape viewer)
