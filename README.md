@@ -1,1 +1,1 @@
-# FDF
+# FDF (landscape viewer)
